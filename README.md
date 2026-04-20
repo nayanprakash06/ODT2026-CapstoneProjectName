@@ -1,10 +1,10 @@
 **Project Title**
 
-[Enter your project name here]
+Kavadiyon ko Kathputhli
 
 **📌 Project Overview**
 
-[Provide a short description of your project]
+A model, representing the kavad and puppetry form of storytelling from Rajasthan, i.e. a storytelling automaton depicting a kavadiyan (puppeteer) manning a show within the diorama, that represents the kavad.
 
 
 **📂 Repository Structure**
@@ -28,4 +28,4 @@ Media → Weekly progress and final output
 
 
 **👥 Team Members**
-[Name]
+Parajika Sinha and Veera Malpani
