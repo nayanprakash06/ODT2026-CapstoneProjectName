@@ -1,10 +1,10 @@
 **Project Title**
 
-[Enter your project name here]
+Arcade Games
 
 **📌 Project Overview**
 
-[Provide a short description of your project]
+An interactive floor-based arcade gaming system featuring a 3×3 grid of illuminated, pressure-sensitive tiles synchronized with overhead visual effects. Players engage in four different games (DDR-style rhythm, Memory sequence, Whack-a-Mole reflexes, and Tic-Tac-Toe strategy) through physical movement while disco lights, lasers, and mechanical motors create an immersive atmosphere.
 
 
 **📂 Repository Structure**
@@ -13,14 +13,10 @@
 3. Software Details
 4. Project Documents
 5. Media
+6. Working prototype and final Code
 
-**⚙️ How to Navigate This Repository**
+Kavya Harshitha Srinivasan Awanti Phadke
 
-Electronics Details → Circuit, components justification
-
-Mechanical Details → Sketches, CAD, and fabrication
-
-Software Details → Code, logic, and implementation
 
 Project Documents → Design thinking, planning, testing
 
